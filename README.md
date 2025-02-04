@@ -53,7 +53,7 @@ WHERE
 ###3. Data Analysis & Findings
 The following SQL queries were developed to answer specific business questions:
 
-**Write a SQL query to retrieve all columns for sales made on '2022-11-05:**
+**Write a SQL query to retrieve all columns for sales made on '2022-11-05':**
 
 '''sql
 SELECT *
